@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pratiktamhane.github.io/csb-8x6kkx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/runtime-main.5dc73d92.js",
+    "runtime-main.js.map": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/runtime-main.5dc73d92.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://pratiktamhane.github.io/csb-8x6kkx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pratiktamhane.github.io/csb-8x6kkx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://pratiktamhane.github.io/csb-8x6kkx/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc73d92.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
